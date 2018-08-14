@@ -1,0 +1,5 @@
+{
+    "require": {
+        "digiaonline/graphql": "dev-master"
+    }
+}
